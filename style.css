@@ -1,0 +1,42 @@
+
+
+body{
+	background-image: url("http://theartmad.com/wp-content/uploads/2015/04/Family-Tree-Background-Graphics-4.jpg");
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	font-family: 'Raleway', serif;
+	}
+	
+.header{
+	position:relative;
+	padding-top:100px;
+	width:300px;
+	margin: 0 auto;
+	text-align:center;
+	min-width:300px;
+}
+	
+.formInfo{
+	position:relative;
+	padding-top:25px;
+	width:500px;
+	margin: 0 auto;
+	min-width:500px;
+}
+
+.listInfo{
+	position:relative;
+	padding-top:25px;
+	width:700px;
+	margin: 0 auto;
+	min-width: 700px;
+}
+
+.content{
+	padding:5px;
+	margin:5px;
+	background-color:white;
+	border: 5px solid #015E20;
+}
+
